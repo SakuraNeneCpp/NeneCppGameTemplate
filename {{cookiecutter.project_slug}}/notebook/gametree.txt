@@ -1,0 +1,8 @@
+[game]
+
+game
+    scene_switch
+        [title_scene]
+
+
+[title_scene]
